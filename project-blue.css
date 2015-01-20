@@ -1,1 +1,8 @@
 /* CSS declarations go here */
+.searchbox {
+  height: 30px;
+  width: 80%;
+  border: solid;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
